@@ -90,6 +90,4 @@ https://buymeacoffee.com/firesstonea
 
 Le soutien est entièrement facultatif.
 
-Utiliser les outils, signaler un bug, proposer une amélioration ou partager le projet autour de vous contribue déjà énormément à son évolution.
-
 Merci à toutes les personnes qui participent, testent les outils et accompagnent l'évolution de l'écosystème Circus.
